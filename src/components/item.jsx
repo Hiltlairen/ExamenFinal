@@ -18,8 +18,6 @@ function Item() {
             <img id="atras" src={item.atras}/>
         </div>
       ))}
-        
-        
       </>
     )
   }
